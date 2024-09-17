@@ -26,7 +26,7 @@ docs = [
 ]
 
 [project.urls]
-repository = "https://magie.ie"
+repository = "https://github.com/TCDSolar/MagIEpy"
 
 [tool.setuptools]
 zip-safe = false
