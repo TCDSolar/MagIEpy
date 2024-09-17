@@ -8,7 +8,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "magiepy"
 description = "Python utilities for the Magnetometer Network of Ireland (MagIE)"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 readme = { file = "README.rst", content-type = "text/x-rst" }
 license = { file = "licenses/LICENSE.rst" }
 dependencies = []
