@@ -95,7 +95,7 @@ jobs:
         uses: OpenAstronomy/github-actions-workflows/.github/workflows/publish_pure_python.yml@main
         with:
           python-version: '3.10'
-          test_extras: 'tests'
+          test_extras: 'test'
           test_command: 'pytest -p no:warnings --doctest-rst --pyargs magiepy'
           submodules: false
         secrets:
