@@ -9,7 +9,7 @@
       "short_description": "Python utilities for the Magnetometer Network of Ireland (MagIE)",
       "author_name": "DIAS Solar",
       "author_email": "",
-      "project_url": "magie.ie",
+      "project_url": "https://magie.ie",
       "license": "BSD 3-Clause",
       "minimum_python_version": "3.10",
       "use_compiled_extensions": "n",
